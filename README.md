@@ -23,7 +23,7 @@ A FastAPI-based microservice for weather data aggregation and prediction, integr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather_service_api.git
+   git clone https://github.com/tinosingh/weather_service_api.git
    cd weather_service_api
    ```
 
